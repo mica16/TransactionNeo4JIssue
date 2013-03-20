@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="neo4j-kernel-1.9.M05-tests">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.neo4j/neo4j-kernel/jars/neo4j-kernel-1.9.M05-tests.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.neo4j/neo4j-kernel/jars/neo4j-kernel-1.9.M05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

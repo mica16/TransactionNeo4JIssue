@@ -46,7 +46,7 @@
 [0m[[0mdebug[0m] [0m		tried http://oss.sonatype.org/content/repositories/snapshots/com/github/mpeltonen/sbt-idea_2.9.2_0.12/1.3.0-SNAPSHOT/sbt-idea-1.3.0-SNAPSHOT.pom[0m
 [0m[[0mdebug[0m] [0m	Sonatype snapshots: found md file for com.github.mpeltonen#sbt-idea;1.3.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m		=> http://oss.sonatype.org/content/repositories/snapshots/com/github/mpeltonen/sbt-idea_2.9.2_0.12/1.3.0-SNAPSHOT/sbt-idea-1.3.0-SNAPSHOT.pom (1.3.0-SNAPSHOT)[0m
-[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@18286079[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@3cb0545[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/michaelazerhad/.ivy2/cache/scala_2.9.2/sbt_0.12/com.github.mpeltonen/sbt-idea/ivy-1.3.0-SNAPSHOT.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.mpeltonen#sbt-idea;1.3.0-SNAPSHOT (resolved by Sonatype snapshots): /Users/michaelazerhad/.ivy2/cache/scala_2.9.2/sbt_0.12/com.github.mpeltonen/sbt-idea/ivy-1.3.0-SNAPSHOT.xml[0m
@@ -3533,7 +3533,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#cache;0.12.2!cache.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.2!test-agent.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2967ms :: artifacts dl 33ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3516ms :: artifacts dl 34ms[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.mpeltonen#sbt-idea;1.3.0-SNAPSHOT / Number of dependencies = 4[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : commons-io#commons-io;2.0.1 / Number of dependencies = 1[0m
@@ -4294,5 +4294,5 @@
 [0m[[0mdebug[0m] [0m	report for default#default-0ffa11;0.1-SNAPSHOT docs produced in /Users/michaelazerhad/Desktop/SpringConverterWithNeo4J/project/target/resolution-cache/reports/default-default-0ffa11/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
 [0m[[0mdebug[0m] [0m	report for default#default-0ffa11;0.1-SNAPSHOT pom produced in /Users/michaelazerhad/Desktop/SpringConverterWithNeo4J/project/target/resolution-cache/reports/default-default-0ffa11/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2967ms resolve - 33ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (3516ms resolve - 34ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

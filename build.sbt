@@ -21,14 +21,9 @@ libraryDependencies ++= Seq(
       ExclusionRule(organization = "com.sun.jmx"),
       ExclusionRule(organization = "javax.jms")
       ),
-    "org.neo4j" % "neo4j" % "1.9.M04",
-    "org.neo4j" % "neo4j-kernel" % "1.9.M04" % "test" classifier "tests" classifier "",
+    "org.neo4j" % "neo4j" % "1.9.M05",
     "asm" % "asm-all" % "3.1",
-    "org.springframework.data" % "spring-data-neo4j-rest" % "2.1.0.RELEASE" excludeAll(
-      ExclusionRule(organization = "org.neo4j")
-      ),
-     "org.neo4j" % "neo4j-rest-graphdb" % "1.9.M04",
-     "javax.validation" % "validation-api" % "1.0.0.GA"
+    "javax.validation" % "validation-api" % "1.0.0.GA"
   )
 
 resolvers ++= Seq(

@@ -4,7 +4,7 @@
 		module="testconverter_2.10"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20130218170559"
+		publication="20130320160923"
 	>
 		<description>
 		TestConverter
@@ -46,16 +46,8 @@
 			<exclude org="com.sun.jmx" module="*" name="*" type="*" ext="*" conf="" matcher="exact"/>
 			<exclude org="javax.jms" module="*" name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
-		<dependency org="org.neo4j" name="neo4j" rev="1.9.M04" conf="compile->default(compile)"/>
-		<dependency org="org.neo4j" name="neo4j-kernel" rev="1.9.M04" conf="test->default(compile)">
-			<artifact name="neo4j-kernel" type="jar" ext="jar" conf="" e:classifier=""/>
-			<artifact name="neo4j-kernel" type="jar" ext="jar" conf="" e:classifier="tests"/>
-		</dependency>
+		<dependency org="org.neo4j" name="neo4j" rev="1.9.M05" conf="compile->default(compile)"/>
 		<dependency org="asm" name="asm-all" rev="3.1" conf="compile->default(compile)"/>
-		<dependency org="org.springframework.data" name="spring-data-neo4j-rest" rev="2.1.0.RELEASE" conf="compile->default(compile)">
-			<exclude org="org.neo4j" module="*" name="*" type="*" ext="*" conf="" matcher="exact"/>
-		</dependency>
-		<dependency org="org.neo4j" name="neo4j-rest-graphdb" rev="1.9.M04" conf="compile->default(compile)"/>
 		<dependency org="javax.validation" name="validation-api" rev="1.0.0.GA" conf="compile->default(compile)"/>
 		<exclude org="org.scala-lang" module="scala-library" artifact="*" type="jar" ext="*" matcher="exact"/>
 		<exclude org="org.scala-lang" module="scala-compiler" artifact="*" type="jar" ext="*" matcher="exact"/>

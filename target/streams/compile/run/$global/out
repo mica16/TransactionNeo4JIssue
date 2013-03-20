@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning app.Main [0m
+[0m[[0minfo[0m] [0mRunning TransactionIssueDemo [0m
 [0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
@@ -26,57 +26,45 @@
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.springframework.data/spring-data-commons/jars/spring-data-commons-1.5.0.RELEASE.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-cypher-dsl/jars/neo4j-cypher-dsl-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j/jars/neo4j-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-kernel/jars/neo4j-kernel-1.9.M04.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j/jars/neo4j-1.9.M05.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-kernel/jars/neo4j-kernel-1.9.M05.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.apache.geronimo.specs/geronimo-jta_1.1_spec/jars/geronimo-jta_1.1_spec-1.1.1.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-lucene-index/jars/neo4j-lucene-index-1.9.M04.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-lucene-index/jars/neo4j-lucene-index-1.9.M05.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.apache.lucene/lucene-core/jars/lucene-core-3.5.0.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-graph-algo/jars/neo4j-graph-algo-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-udc/jars/neo4j-udc-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-graph-matching/jars/neo4j-graph-matching-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-cypher/jars/neo4j-cypher-1.9.M04.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-graph-algo/jars/neo4j-graph-algo-1.9.M05.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-udc/jars/neo4j-udc-1.9.M05.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-graph-matching/jars/neo4j-graph-matching-1.9.M05.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-cypher/jars/neo4j-cypher-1.9.M05.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/jars/concurrentlinkedhashmap-lru-1.3.1.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-jmx/jars/neo4j-jmx-1.9.M04.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-jmx/jars/neo4j-jmx-1.9.M05.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/asm/asm-all/jars/asm-all-3.1.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.springframework.data/spring-data-neo4j-rest/jars/spring-data-neo4j-rest-2.1.0.RELEASE.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.codehaus.jackson/jackson-jaxrs/jars/jackson-jaxrs-1.9.7.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.9.7.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.9.7.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/com.sun.jersey/jersey-client/bundles/jersey-client-1.4.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/com.sun.jersey/jersey-core/bundles/jersey-core-1.4.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/neo4j-rest-graphdb/jars/neo4j-rest-graphdb-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j/server-api/jars/server-api-1.9.M04.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/org.neo4j.3rdparty.javax.ws.rs/jsr311-api/jars/jsr311-api-1.1.2.r612.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-configuration/commons-configuration/jars/commons-configuration-1.6.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.4.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-beanutils/commons-beanutils-core/jars/commons-beanutils-core-1.8.0.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-digester/commons-digester/jars/commons-digester-1.8.1.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.8.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/michaelazerhad/.ivy2/cache/javax.validation/validation-api/jars/validation-api-1.0.0.GA.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
-[0m[[31merror[0m] [0m(run-main) java.util.NoSuchElementException: More than one element in org.neo4j.index.impl.lucene.LuceneIndex$1@18a95254. First element is 'Node[1]' and the second element is 'Node[25981]'[0m
-java.util.NoSuchElementException: More than one element in org.neo4j.index.impl.lucene.LuceneIndex$1@18a95254. First element is 'Node[1]' and the second element is 'Node[25981]'
-	at org.neo4j.helpers.collection.IteratorUtil.singleOrNull(IteratorUtil.java:118)
-	at org.neo4j.index.impl.lucene.IdToEntityIterator.getSingle(IdToEntityIterator.java:88)
-	at org.neo4j.index.impl.lucene.IdToEntityIterator.getSingle(IdToEntityIterator.java:32)
-	at org.springframework.data.neo4j.repository.AbstractGraphRepository.findByPropertyValue(AbstractGraphRepository.java:173)
-	at org.springframework.data.neo4j.repository.AbstractGraphRepository.findByPropertyValue(AbstractGraphRepository.java:160)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:601)
-	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.executeMethodOn(RepositoryFactorySupport.java:334)
-	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:319)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
-	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
-	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:155)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
-	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
-	at $Proxy30.findByPropertyValue(Unknown Source)
-	at app.Main$delayedInit$body.apply(Neo4jSave.scala:17)
+[0m[[31merror[0m] [0m(run-main) org.neo4j.graphdb.NotInTransactionException[0m
+org.neo4j.graphdb.NotInTransactionException
+	at org.neo4j.kernel.impl.core.NoTransactionState.acquireWriteLock(NoTransactionState.java:43)
+	at org.neo4j.kernel.impl.core.NodeManager.createNode(NodeManager.java:175)
+	at org.neo4j.kernel.InternalAbstractGraphDatabase.createNode(InternalAbstractGraphDatabase.java:891)
+	at org.springframework.data.neo4j.support.DelegatingGraphDatabase.createNode(DelegatingGraphDatabase.java:88)
+	at org.springframework.data.neo4j.support.mapping.EntityStateHandler.useOrCreateState(EntityStateHandler.java:136)
+	at org.springframework.data.neo4j.support.mapping.Neo4jEntityConverterImpl.write(Neo4jEntityConverterImpl.java:146)
+	at org.springframework.data.neo4j.support.mapping.Neo4jEntityPersister$CachedConverter.write(Neo4jEntityPersister.java:179)
+	at org.springframework.data.neo4j.support.mapping.Neo4jEntityPersister.persist(Neo4jEntityPersister.java:243)
+	at org.springframework.data.neo4j.support.mapping.Neo4jEntityPersister.persist(Neo4jEntityPersister.java:231)
+	at org.springframework.data.neo4j.support.Neo4jTemplate.save(Neo4jTemplate.java:293)
+	at org.springframework.data.neo4j.support.Neo4jTemplate.save(Neo4jTemplate.java:287)
+	at org.springframework.data.neo4j.fieldaccess.RelationshipHelper.getOrCreateState(RelationshipHelper.java:119)
+	at org.springframework.data.neo4j.fieldaccess.RelationshipHelper.createSetOfTargetNodes(RelationshipHelper.java:111)
+	at org.springframework.data.neo4j.fieldaccess.RelatedToFieldAccessor.createSetOfTargetNodes(RelatedToFieldAccessor.java:82)
+	at org.springframework.data.neo4j.fieldaccess.RelatedToCollectionFieldAccessorFactory$RelatedToCollectionFieldAccessor.setValue(RelatedToCollectionFieldAccessorFactory.java:66)
+	at org.springframework.data.neo4j.fieldaccess.ManagedFieldAccessorSet.updateValue(ManagedFieldAccessorSet.java:94)
+	at org.springframework.data.neo4j.fieldaccess.ManagedFieldAccessorSet.update(ManagedFieldAccessorSet.java:82)
+	at org.springframework.data.neo4j.fieldaccess.ManagedFieldAccessorSet.add(ManagedFieldAccessorSet.java:108)
+	at models.User.participateIn(User.scala:21)
+	at services.MeetingServices.save(MeetingServices.scala:12)
+	at TransactionIssueDemo$.saveAMeetingWithARetrievedUserEntity(TransactionIssueDemo.scala:35)
+	at TransactionIssueDemo$delayedInit$body.apply(TransactionIssueDemo.scala:21)
 	at scala.Function0$class.apply$mcV$sp(Function0.scala:40)
 	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)
 	at scala.App$$anonfun$main$1.apply(App.scala:71)
@@ -84,8 +72,8 @@ java.util.NoSuchElementException: More than one element in org.neo4j.index.impl.
 	at scala.collection.immutable.List.foreach(List.scala:309)
 	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:32)
 	at scala.App$class.main(App.scala:71)
-	at app.Main$.main(Neo4jSave.scala:8)
-	at app.Main.main(Neo4jSave.scala)
+	at TransactionIssueDemo$.main(TransactionIssueDemo.scala:7)
+	at TransactionIssueDemo.main(TransactionIssueDemo.scala)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
