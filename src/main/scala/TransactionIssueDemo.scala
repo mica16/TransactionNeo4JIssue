@@ -1,7 +1,6 @@
-import services.MeetingServices
 import org.springframework.context.support.ClassPathXmlApplicationContext
 import models.{User, Meeting}
-import services.UserServices
+import services.{MeetingServices, UserServices}
 
 
 object TransactionIssueDemo extends App {

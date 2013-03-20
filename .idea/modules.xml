@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/TestConverter.iml" filepath="$PROJECT_DIR$/.idea_modules/TestConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea_modules/TestConverter-build.iml" filepath="$PROJECT_DIR$/.idea_modules/TestConverter-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/TransactionIssue.iml" filepath="$PROJECT_DIR$/.idea_modules/TransactionIssue.iml" />
     </modules>
   </component>
 </project>
