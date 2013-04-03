@@ -14,7 +14,7 @@
 
     <tx:annotation-driven mode="aspectj"/>
 
-    <context:spring-configured/>
+    <context:load-time-weaver/>
 
     <context:annotation-config/>
     <context:component-scan base-package="services, repositories"/>

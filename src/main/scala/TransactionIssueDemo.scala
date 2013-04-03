@@ -11,21 +11,12 @@ object TransactionIssueDemo extends App {
 
   val userServices = context.getBean("userServices", classOf[UserServices])
 
-  // works well since (I don't understand why...) all involved entities are newly created
-  saveAMeetingWithANewlyCreatedUserEntity()
-
 
   //set a relationShip between a Meeting and a retrieved User from the graph
   //Doens't work !! => NotInTransactionException
   saveAMeetingWithARetrievedUserEntity()
 
   println("end")
-
-  def saveAMeetingWithANewlyCreatedUserEntity() {
-    val meeting = Meeting("myTitle", "myDescription")
-    val user = User("myLastName", "myFistName", "test@test.com")
-    meetingServices.save(meeting, user)
-  }
 
   def saveAMeetingWithARetrievedUserEntity() {
     val meeting = Meeting("myTitle", "myDescription")

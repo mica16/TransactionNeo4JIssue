@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="535fb4fa-eafc-4e5a-96b0-88d377e18195" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/models/User.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/repositories/UserRepository.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea_modules/TransactionIssue.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_jcl_over_slf4j_1_7_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_jcl_over_slf4j_1_7_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala" afterPath="$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-context.xml" afterPath="$PROJECT_DIR$/src/main/resources/application-context.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/neo4j_kernel_1_9_M05_tests.xml" afterPath="$PROJECT_DIR$/.idea/libraries/neo4j_kernel_1_9_M05_tests.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringConverterWithNeo4J.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363794350384" ignored="false" />
-    <file path="/application-context.xml" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363788805114" ignored="false" />
+    <file path="/Dummy.txt" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1365030086333" ignored="false" />
+    <file path="/application-context.xml" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1365029351596" ignored="false" />
     <file path="/User.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363792654286" ignored="false" />
     <file path="/a.dummy" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363792218786" ignored="false" />
     <file path="/Meeting.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363788204017" ignored="false" />
@@ -22,6 +23,7 @@
     <file path="/UserRepository.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363789373011" ignored="false" />
     <file path="/UserServices.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363789224490" ignored="false" />
     <file path="/MeetingServices.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1363792803529" ignored="false" />
+    <file path="/TransactionIssueDemo.scala" changelist="535fb4fa-eafc-4e5a-96b0-88d377e18195" time="1365029287174" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -73,6 +74,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -82,33 +84,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TransactionIssueDemo.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TransactionIssueDemo.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="693" selection-end="693" vertical-scroll-proportion="0.61503416">
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/models/User.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="6" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+            <state line="19" column="0" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserRepository.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/repositories/UserRepository.scala">
+      <file leaf-file-name="application-context.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#22#86#0" expanded="false" />
-              </folding>
+            <state line="23" column="0" selection-start="1129" selection-end="1129" vertical-scroll-proportion="-13.8">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConverter-build.iml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea_modules/TestConverter-build.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="63" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.49938348">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,27 +114,7 @@
       <file leaf-file-name="MeetingServices.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServices.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/services/UserServices.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="20" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#18#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CRUDRepository.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.springframework.data/spring-data-neo4j/srcs/spring-data-neo4j-2.2.0.RELEASE-sources.jar!/org/springframework/data/neo4j/repository/CRUDRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="20" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.0">
+            <state line="4" column="29" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,19 +145,19 @@
         <option value="$PROJECT_DIR$/src/main/scala/services/UserServices.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/repositories/UserRepository.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Neo4jSave.scala" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-context.xml" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/models/User.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/models/repositories/repositories/UserRepository.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-context.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="779" />
+    <option name="width" value="2560" />
+    <option name="height" value="1319" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,7 +170,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -208,7 +186,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,12 +243,18 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
+              <option name="myItemId" value="TransactionNeo4JIssue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TransactionNeo4JIssue" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
+              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,137 +268,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repositories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Meeting.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TransactionNeo4JIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value=".idea_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
@@ -480,19 +344,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -519,6 +370,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -594,7 +458,7 @@
     <option name="totallyTimeSpent" value="4936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="779" extended-state="0" />
+    <frame x="0" y="22" width="2560" height="1319" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -617,8 +481,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30774748" sideWeight="0.68475074" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31524926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30747813" sideWeight="0.6865794" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31342062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -691,23 +555,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
+        <state line="14" column="3" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.neo4j/neo4j-kernel/jars/neo4j-kernel-1.9.M05-tests.jar!/org/neo4j/test/ImpermanentGraphDatabase.class">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/services/UserServices.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0996016" />
+        <state line="21" column="20" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea_modules/TransactionIssue.iml">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.springframework.data/spring-data-neo4j/srcs/spring-data-neo4j-2.2.0.RELEASE-sources.jar!/org/springframework/data/neo4j/repository/CRUDRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="101" selection-start="3282" selection-end="3282" vertical-scroll-proportion="0.0" />
+        <state line="42" column="20" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.0-sources.jar!/scala/App.scala">
@@ -722,72 +593,63 @@
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.0-sources.jar!/scala/collection/generic/TraversableForwarder.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.3317647">
-          <folding />
-        </state>
+        <state line="31" column="0" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.3317647" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/models/Meeting.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="0.28899083">
-          <folding>
-            <element signature="e#16#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="827" selection-end="827" vertical-scroll-proportion="0.21915585">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="0.28899083" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/repositories/UserRepository.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#22#86#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.springframework.data/spring-data-neo4j/srcs/spring-data-neo4j-2.2.0.RELEASE-sources.jar!/org/springframework/data/neo4j/repository/CRUDRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="20" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="42" column="20" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/services/UserServices.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="20" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#18#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/models/User.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+        <state line="7" column="6" selection-start="181" selection-end="181" vertical-scroll-proportion="0.06281407">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/services/MeetingServices.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/TransactionIssueDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="693" selection-end="693" vertical-scroll-proportion="0.61503416">
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
+        <state line="19" column="0" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="1129" selection-end="1129" vertical-scroll-proportion="-13.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea_modules/TestConverter-build.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="63" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.49938348">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +705,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>TransactionIssue</last-edited>
+          <last-edited>TestConverter</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -855,7 +717,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>neo4j-kernel-1.9.M05-tests</last-edited>
+          <last-edited>SBT: org.springframework:spring-core:3.2.0.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
